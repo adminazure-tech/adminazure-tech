@@ -8,6 +8,3 @@
 adminazure-tech/adminazure-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-- Ferrari tem pedidos o suficiente para se ocupar até 2025
-Números devem aumentar ainda mais, agora que o Purosangue está à venda novamente
